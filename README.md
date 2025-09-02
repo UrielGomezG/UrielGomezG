@@ -3,7 +3,7 @@
 
 I’m a student at UTEZ University, passionate about improving my code, sharpening my logic, and exploring new technologies.
 
-🌱 **I’m currently learning: [![My Skills](https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg)]**    💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing video games.
+🌱 **I’m currently learning: **    💬 **Ask me about**  <br>JavaScript, TypeScript, React, Angular, Node.js, Express, MongoDB, Elastic Search, Messaging Systems, AWS, System Designs, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love playing video games.
 
 
 ## 🌐 Socials:
