@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Uriel+Gomez;)](https://git.io/typing-svg)
-# 💫 About Me:
+## 👨‍💻 About Me
 
-I’m a student at UTEZ University, passionate about improving my code, sharpening my logic, and exploring new technologies.
+- 🎓 Student at [UTEZ](https://www.utez.edu.mx/), constantly improving my programming skills and logic.
+- 💡 Passionate about software development, databases, and web technologies.
+- 🌍 English level: **Intermediate - A2/B1** (improving).
+- 🎮 Interests: programming, gaming, music, and new technologies.
+
 
 🌱 I’m currently learning: 
 
