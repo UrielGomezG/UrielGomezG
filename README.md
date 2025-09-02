@@ -5,16 +5,16 @@ I’m a student at UTEZ University, passionate about improving my code, sharpeni
 
 🌱 I’m currently learning: 
 
+
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pinfet/)
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord%20@pinfet-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/733738203294597150)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198985086047/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merceralex104@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pinfet/)
+
 
 ## 💻 Tech Stack
 
