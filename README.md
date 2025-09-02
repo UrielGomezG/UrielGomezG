@@ -7,7 +7,7 @@ I’m a student at UTEZ University, passionate about improving my code, sharpeni
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/pinfet)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/733738203294597150)
 
 
 
